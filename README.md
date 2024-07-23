@@ -1,10 +1,11 @@
 # Study Note of Geospatial Artificial Intelligence(GeoAI)
-### Kezhou Renhttps://github.com/XiWen0627/StudyNote_GeoAI/tree/main
+### Kezhou Ren
 ### Shared at G11 Research Group, May 28, 2024
 ### Orgnized on July 22，2024
 
 ## Introduction
-
+- Outline.
+- Aim
 
 ## Outline
 - Basic Topics For Reseach In Urban Planning and Human Geography Areas
