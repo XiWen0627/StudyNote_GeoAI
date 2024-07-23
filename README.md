@@ -12,7 +12,7 @@
 - Problems And Challenges Of GeoAI
 
 ## Online Read-only Slides
-- [Chinese Version])
+- [Chinese Version](https://1drv.ms/p/s!Aq8Gu6eb5gkCbQ5lEnB3UiFpbS8?e=Z8NZdD)
 - English Version
 
 ## Reference
