@@ -5,6 +5,7 @@
 
 ## Introduction
 
+
 ## Outline
 - Basic Topics For Reseach In Urban Planning and Human Geography Areas
 - Conception And Case Studies Of GeoAI
@@ -13,6 +14,8 @@
 
 ## Online Read-only Slides
 - [Chinese Version](https://1drv.ms/p/s!Aq8Gu6eb5gkCbQ5lEnB3UiFpbS8?e=Z8NZdD)
+  
+  ![Sharing Outline in Chinese](https://github.com/user-attachments/assets/b8c9c337-9e0c-4c03-9ee6-c3bb4e943b5d)
 - English Version
 
 ## Reference
