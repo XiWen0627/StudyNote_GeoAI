@@ -1,5 +1,5 @@
 # Study Note of Geospatial Artificial Intelligence(GeoAI)
-### Kezhou Ren
+### Kezhou Renhttps://github.com/XiWen0627/StudyNote_GeoAI/tree/main
 ### Shared at G11 Research Group, May 28, 2024
 ### Orgnized on July 22，2024
 
@@ -13,10 +13,12 @@
 - Problems And Challenges Of GeoAI
 
 ## Online Read-only Slides
-- [Chinese Version](https://1drv.ms/p/s!Aq8Gu6eb5gkCbQ5lEnB3UiFpbS8?e=Z8NZdD)
+### **[Chinese Version](https://1drv.ms/p/s!Aq8Gu6eb5gkCbQ5lEnB3UiFpbS8?e=Z8NZdD)**
   
-  ![Sharing Outline in Chinese](https://github.com/user-attachments/assets/b8c9c337-9e0c-4c03-9ee6-c3bb4e943b5d)
-- English Version
+  ![Main Theme In Chinese](https://github.com/XiWen0627/StudyNote_GeoAI/blob/main/SelectedPic1.png)
+  **<p align="center">Main Theme In Chinese</p>**
+
+### **English Version**
 
 ## Reference
 [Gao, S., Hu, Y., & Li, W. (Eds.). (2023). Handbook of Geospatial Artificial Intelligence (1st ed.). CRC Press. https://doi.org/10.1201/9781003308423](https://www.taylorfrancis.com/books/edit/10.1201/9781003308423/handbook-geospatial-artificial-intelligence-song-gao-yingjie-hu-wenwen-li)
