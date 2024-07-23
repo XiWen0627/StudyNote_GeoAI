@@ -4,8 +4,8 @@
 ### Orgnized on July 22，2024
 
 ## Introduction
-- Outline.
-- Aim
+The emergence of fine-grained spatio-temporal big data provides insights into intricate socio-economic occurrences. However, traditional methodologies are constrained by static assumptions, limiting their capacity to fully exploit available information. Consequently, there is an urgent necessity for innovative quantitative approaches to effectively represent, model, and infer geographic phenomena that are non-stationary and spatio-temperal dynamic.
+
 
 ## Outline
 - Basic Topics For Reseach In Urban Planning and Human Geography Areas
