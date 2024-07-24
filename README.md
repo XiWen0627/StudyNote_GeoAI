@@ -16,10 +16,19 @@ The rapid development of Machine Learning (ML) and Artificial Intelligence (AI) 
  5. What new applications might GeoAI have in the future?
 
 ## Outline
-- Basic Topics For Reseach In Urban Planning and Human Geography Areas
-- Conception And Case Studies Of GeoAI
-- Applications Of GeoAI In Urban Science
-- Problems And Challenges Of GeoAI
+- **Basic Topics For Reseach In Urban Planning and Human Geography Areas**
+  - Spatial Autocorrelation And Spatial Heterogeneity
+  - Simpson's Paradox And MAUP (Modifiable Areal Unit Problem)
+  - Traditional Research Topics In Geography
+- **Conception And Case Studies Of GeoAI**
+  - Introduction To Machine Learning And AI (Artificial Intelligence)
+  - The Conceptualization Of GeoAI
+  - The Relationship Between Geospatial Phenomena And AI: Representation, Model, And Prediction
+- **Applications Of GeoAI In Urban Science**
+  - Spatial Representation Learning
+  - Spatial Prediction And Interpolation Methods
+  - Explainability In GeoAI
+- **Problems And Challenges Of GeoAI**
 
 ## Online Read-only Slides
 ### **[Chinese Version](https://1drv.ms/p/s!Aq8Gu6eb5gkCbQ5lEnB3UiFpbS8?e=Z8NZdD)**
