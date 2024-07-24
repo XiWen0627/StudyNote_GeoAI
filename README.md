@@ -4,11 +4,11 @@
 ### Orgnized on July 22，2024
 
 ## Introduction
-The emergence of fine-grained spatio-temporal big data provides insights into intricate socio-economic occurrences. However, traditional methodologies are constrained by static assumptions, limiting their capacity to fully exploit available information. Consequently, there is an urgent necessity for innovative quantitative approaches to effectively represent, model, and infer geographic phenomena that are non-stationary and spatio-temperal dynamic.
+The emergence of fine-grained spatio-temporal big data provides insights into intricate socio-economic occurrences. However, traditional methodologies are constrained by static assumptions, limiting their capacity to fully exploit available information. Consequently, **there is an urgent necessity for innovative quantitative approaches to effectively represent, model, and infer geographic phenomena that are non-stationary and spatio-temperal dynamic**.
 
 The rapid development of Machine Learning (ML) and Artificial Intelligence (AI) has garnered significant attention from academia. Their ability to tackle NP(Nondeterministic Polynomial time) problems inspired researchers to incorporate geographical prior knowleges and ML inductive biases. This integration has laid the foundation for the interdisciplinary field known as Geospatial Artificial Intelligence (GeoAI).
 
-This study note aims to briefly introduce the connotations and dennotations of GeoAI, providing an intuitive understanding of its formulation, conceptualization, and application. Specifically, we aim to address the following questions:
+**This study note aims to briefly introduce the connotations and dennotations of GeoAI, providing an intuitive understanding of its formulation, conceptualization, and application.** Specifically, we aim to address the following questions:
  1. Why AI is needed for traditional topics in geography and urban science?
  2. Which questions can be better solved by integrating GeoAI?
  3. How is GeoAI applied to the aforementioned questions?
