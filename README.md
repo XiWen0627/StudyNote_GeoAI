@@ -25,8 +25,15 @@ The rapid development of Machine Learning (ML) and Artificial Intelligence (AI) 
  4. What challenges may arise with the development of GeoAI?
  5. What new applications might GeoAI have in the future?
 
+## Preview
 ![Main Theme In Chinese](https://github.com/XiWen0627/StudyNote_GeoAI/blob/main/SelectedPic1.png)
-  **<p align="center">Main Theme In Chinese</p>**
+**<p align="center">Main Theme In Chinese</p>**  
+  
+
+
+<img width="919" alt="EN_MT" src="https://github.com/user-attachments/assets/48244510-1edb-4d98-a12f-4c07c60ff04f"> 
+
+**<p align="center">Main Theme In English</p>**
 
 ## Outline
 - **Basic Topics For Reseach In Urban Planning and Human Geography Areas**
