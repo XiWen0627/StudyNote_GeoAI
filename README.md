@@ -15,28 +15,31 @@ The rapid development of Machine Learning (ML) and Artificial Intelligence (AI) 
  4. What challenges may arise with the development of GeoAI?
  5. What new applications might GeoAI have in the future?
 
+![Main Theme In Chinese](https://github.com/XiWen0627/StudyNote_GeoAI/blob/main/SelectedPic1.png)
+  **<p align="center">Main Theme In Chinese</p>**
+
 ## Outline
 - **Basic Topics For Reseach In Urban Planning and Human Geography Areas**
+  - Spatiality: Representation, Model, And Prediction
   - Spatial Autocorrelation And Spatial Heterogeneity
   - Simpson's Paradox And MAUP (Modifiable Areal Unit Problem)
-  - Traditional Research Topics In Geography
+    
 - **Conception And Case Studies Of GeoAI**
   - Introduction To Machine Learning And AI (Artificial Intelligence)
   - The Conceptualization Of GeoAI
-  - The Relationship Between Geospatial Phenomena And AI: Representation, Model, And Prediction
+  - The Relationship Between Geospatial Phenomena And AI
+    
 - **Applications Of GeoAI In Urban Science**
   - Spatial Representation Learning
   - Spatial Prediction And Interpolation Methods
   - Explainability In GeoAI
+    
 - **Problems And Challenges Of GeoAI**
 
 ## Online Read-only Slides
-### **[Chinese Version](https://1drv.ms/p/s!Aq8Gu6eb5gkCbQ5lEnB3UiFpbS8?e=Z8NZdD)**
-  
-  ![Main Theme In Chinese](https://github.com/XiWen0627/StudyNote_GeoAI/blob/main/SelectedPic1.png)
-  **<p align="center">Main Theme In Chinese</p>**
+**[Chinese Version](https://1drv.ms/p/s!Aq8Gu6eb5gkCbQ5lEnB3UiFpbS8?e=Z8NZdD)**  
 
-### **English Version**
+**English Version**
 
 ## Reference
 [Gao, S., Hu, Y., & Li, W. (Eds.). (2023). Handbook of Geospatial Artificial Intelligence (1st ed.). CRC Press. https://doi.org/10.1201/9781003308423](https://www.taylorfrancis.com/books/edit/10.1201/9781003308423/handbook-geospatial-artificial-intelligence-song-gao-yingjie-hu-wenwen-li)
