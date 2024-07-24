@@ -3,6 +3,14 @@
 ### Shared at G11 Research Group, May 28, 2024
 ### Orgnized on July 22，2024
 
+## Online Read-only Slides
+**[Chinese Version](https://1drv.ms/p/s!Aq8Gu6eb5gkCbQ5lEnB3UiFpbS8?e=Z8NZdD)**  
+
+**English Version**  
+
+
+  
+
 🔔 **Latest Update**: Chinese version of slides
 
 ## Introduction
@@ -38,10 +46,6 @@ The rapid development of Machine Learning (ML) and Artificial Intelligence (AI) 
     
 - **Problems And Challenges Of GeoAI**
 
-## Online Read-only Slides
-**[Chinese Version](https://1drv.ms/p/s!Aq8Gu6eb5gkCbQ5lEnB3UiFpbS8?e=Z8NZdD)**  
-
-**English Version**
-
 ## Reference
 [Gao, S., Hu, Y., & Li, W. (Eds.). (2023). Handbook of Geospatial Artificial Intelligence (1st ed.). CRC Press. https://doi.org/10.1201/9781003308423](https://www.taylorfrancis.com/books/edit/10.1201/9781003308423/handbook-geospatial-artificial-intelligence-song-gao-yingjie-hu-wenwen-li)
+[Stan Openshaw and Christine Openshaw. 1997. Artificial Intelligence in Geography (1st. ed.). John Wiley & Sons, Inc., USA.](https://www.amazon.com/exec/obidos/ASIN/0471969915/acmorg-20)
