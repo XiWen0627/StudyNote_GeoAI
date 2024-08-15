@@ -4,9 +4,9 @@
 ### Orgnized on July 22，2024
 
 ## Online Read-only Slides
-**[Chinese Version](https://github.com/XiWen0627/StudyNote_GeoAI/blob/main/GeoAI_CHN.pdf)**  
+**[Chinese Version]https://1drv.ms/p/c/0209e69ba7bb06af/Ea8Gu6eb5gkggAJtAAAAAAABAs_uDgwlAgcMtxx4KnA0wg?e=a5jAM5)**  
 
-**[English_Version](https://github.com/XiWen0627/StudyNote_GeoAI/blob/main/GeoAI_EN.pdf)**
+**[English_Version](https://1drv.ms/p/c/0209e69ba7bb06af/EWk36XwomopGmqLVohtgbTcBO-buAqoc_rz20FOLT8qhXA?e=Oyh9f1)**
 
 
   
