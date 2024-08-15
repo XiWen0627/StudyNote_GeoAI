@@ -4,7 +4,7 @@
 ### Orgnized on July 22，2024
 
 ## Online Read-only Slides
-**[Chinese Version](https://1drv.ms/p/c/0209e69ba7bb06af/Ea8Gu6eb5gkggAJtAAAAAAABAs_uDgwlAgcMtxx4KnA0wg?e=a5jAM5)**  
+**[Chinese Version](https://1drv.ms/p/c/0209e69ba7bb06af/Ea8Gu6eb5gkggAJtAAAAAAABAs_uDgwlAgcMtxx4KnA0wg?e=rOHthp)**  
 
 **[English_Version](https://1drv.ms/p/c/0209e69ba7bb06af/EWk36XwomopGmqLVohtgbTcBO-buAqoc_rz20FOLT8qhXA?e=Oyh9f1)**
 
